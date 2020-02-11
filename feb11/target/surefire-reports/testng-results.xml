@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.com.MovieTest" duration-ms="221" started-at="2020-02-11T04:31:34Z" finished-at="2020-02-11T04:31:35Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="221" started-at="2020-02-11T04:31:34Z" finished-at="2020-02-11T04:31:35Z">
+      <class name="test.com.MovieTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.com.MovieTest@7e0babb1]" name="setUpClass" is-config="true" duration-ms="6" started-at="2020-02-10T22:31:34Z" finished-at="2020-02-10T22:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.MovieTest@7e0babb1]" name="setUpMethod" is-config="true" duration-ms="207" started-at="2020-02-10T22:31:34Z" finished-at="2020-02-10T22:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testmovie()[pri:0, instance:test.com.MovieTest@7e0babb1]" name="testmovie" duration-ms="2" started-at="2020-02-10T22:31:35Z" finished-at="2020-02-10T22:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmovie -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.MovieTest@7e0babb1]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2020-02-10T22:31:35Z" finished-at="2020-02-10T22:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.com.MovieTest@7e0babb1]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2020-02-10T22:31:35Z" finished-at="2020-02-10T22:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.MovieTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.MovieTest -->
+</testng-results>
